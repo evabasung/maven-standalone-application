@@ -39,15 +39,15 @@
 		For Commiting mvn -Dmessage="Updated using maven" scm:checkin For updating 
 		mvn scm:update -->
 	<scm>
-		<connection>scm:git:https://github.com/evabasung/maven-stanalone-application</connection>
-		<developerConnection>scm:git:https://github.com/evabasung/maven-stanalone-application</developerConnection>
+		<connection>scm:git:https://github.com/evabasung/maven-standalone-application</connection>
+		<developerConnection>scm:git:https://github.com/evabasung/maven-standalone-application</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/evabasung/maven-stanalone-application</url>
+		<url>https://github.com/evabasung/maven-standalone-application</url>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/evabasung/maven-stanalone-application/issues</url>
+		<url>https://github.com/evabasung/maven-standalone-application/issues</url>
 	</issueManagement>
 
 	
